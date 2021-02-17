@@ -1,5 +1,5 @@
 ### Olá!👋
-## Eu sou Vinicius Mingatos Bergamasco. Estou cursando Sistemas de informação e possuo um conhecimento básico em relação às seguintes linguagens de programação:
+#### Eu sou Vinicius Mingatos Bergamasco. Estou cursando Sistemas de informação e possuo um conhecimento básico em relação às seguintes linguagens de programação:
 - Python
 - JavaScript
 - C#
